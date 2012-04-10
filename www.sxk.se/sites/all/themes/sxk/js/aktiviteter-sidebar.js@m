@@ -1,0 +1,9 @@
+$(document).ready(function(){	
+	var $middle = $(".section-aktiviteter #main-wrapper #content .section");
+	var $sidebar = $(".section-aktiviteter .region-sidebar-first .section #block-views-taxonomy_list-block_1");
+	if($sidebar.length) {
+		var height = Math.max($middle.height(), $sidebar.height()) + 4;
+		$middle.height(height);
+		$sidebar.height(height);
+	}
+});

@@ -1,0 +1,604 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="sv" lang="sv" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>www.sxk.se | SXK - Stärker lusten för turist- och långfärder till sjöss</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link type="text/css" rel="stylesheet" media="all" href="../../../../default/files/css/css_6c4fbb3f08d20fd933c5c853b4f2d29c.css" />
+<link type="text/css" rel="stylesheet" media="print" href="../../../../default/files/css/css_83b4d058fbe338f622cdbb47a3fc062e.css" />
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/sxk/css/ie.css?m" />
+<![endif]-->
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/sxk/css/ie6.css?m" />
+<![endif]-->
+  <script type="text/javascript" src="../../../modules/contrib/jquery_update/replace/jquery.min.js@m"></script>
+<script type="text/javascript" src="http://www.sxk.se/misc/drupal.js?m"></script>
+<script type="text/javascript" src="../../../../default/files/languages/sv_ad76bf73602577b9835a5b1a6bc147d7.js@m"></script>
+<script type="text/javascript" src="../../../modules/contrib/lightbox2/js/lightbox.js@m"></script>
+<script type="text/javascript" src="../../../modules/contrib/spamspan/spamspan.compressed.js@m"></script>
+<script type="text/javascript" src="../../../modules/contrib/ubercart/uc_file/uc_file.js@m"></script>
+<script type="text/javascript" src="../../../modules/contrib/cufon/js/cufon-yui.js@m"></script>
+<script type="text/javascript" src="../../../modules/contrib/og/og.js@m"></script>
+<script type="text/javascript" src="../../../libraries/cufon-fonts/Minion-pro_700.font.js@m"></script>
+<script type="text/javascript" src="../js/script.js@m"></script>
+<script type="text/javascript" src="../js/aktiviteter-sidebar.js@m"></script>
+<script type="text/javascript" src="../js/medlemstips-sidebar.js@m"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": "0", "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/contrib/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": true, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": false, "disable_resize": false, "disable_zoom": false, "force_show_nav": false, "show_caption": true, "loop_items": false, "node_link_text": "View Image Details", "node_link_target": false, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": false }, "spamspan": { "m": "spamspan", "u": "u", "d": "d", "h": "h", "t": "t" }, "cufonSelectors": [ { "selector": ".view-display-id-page_1 .headline, \r\n.node h2.title, \r\n.view-puffs-most-right-column .view-content .views-row .views-field-title, \r\nh1.title, \r\n#block-views-aktiviteter-block_1 h2, \r\n#block-views-aktiviteter-block_2 h2, \r\n#block-block-6 h2, #block-block-7 h2, \r\n.block-og_menu h2, \r\n.block-block h2.title, \r\n.block-aggregator h2.title, \r\n.page-alla-artiklar .view-display-id-page_1 .view-header, \r\n.page-alla-bloggar .view-bloggare .view-header, \r\n.page-alla-bloggar .view-bloggar .view-header, \r\n.page-alla-bloggar .view-bloggar .rubrik a, \r\n.section-blogg .view-blogginfo .view-header, \r\n.section-blogg .view-bloggsida .rubrik a, \r\n.node-type-blogg .view-blogginfo .view-header, \r\n.section-blogg .view-blogghistorik .view-content h3, \r\n.node-type-blogg .view-blogghistorik .view-content h3, \r\n.page-eniro-map #filterdiv h3", "options": { "fontFamily": "Minion", "hover": 1 } } ] });
+//--><!]]>
+</script>
+</head>
+<body class="front not-logged-in page-frontpage-puffs two-sidebars page-views">
+      <div id="skip-link"><a href="show_full.png#main-menu">Jump to Navigation</a></div>
+  
+  <div id="page-wrapper"><div id="page">
+
+    <div id="header"><div class="section clearfix">
+
+              <a href="show_full.png" title="Hem" rel="home" id="logo"><img src="../../../../default/files/sxk_logo.jpg" alt="Hem" /></a>
+            
+	<div id="headermenu">
+				<div id="search-box"><form action="show_full.png"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Sök på webbplatsen: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Ange de ord du vill söka efter." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Sök"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-cb755ffe1b6b901cd10751d1972425ab" value="form-cb755ffe1b6b901cd10751d1972425ab"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div>
+	      	    		<h2 class="element-invisible">Secondary menu</h2><ul id="secondary-menu" class="links clearfix"><li class="menu-3113 first"><a href="http://www.sxk.se/organisation" title="Information Om Svenska Kryssarklubben">Om Kryssarklubben</a></li>
+<li class="menu-2627"><a href="http://www.sxk.se/Kontakta-oss" title="Kontaktinformation">Kontakta oss</a></li>
+<li class="menu-192 last"><a href="http://www.sxk.se/welcome-swedish-cruising-association" title="">English</a></li>
+</ul>	    	
+	    		<h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links clearfix"><li class="menu-197 first"><a href="http://www.pakryss.se" title="">På Kryss</a></li>
+<li class="menu-2149"><a href="http://www.sxk.se/alla_bloggar" title="">Bloggar</a></li>
+<li class="menu-623"><a href="http://www.sxk.se/forum" title="">Forum</a></li>
+<li class="menu-1572"><a href="http://www.sxk.se/bli-medlem" title="">Bli medlem</a></li>
+<li class="menu-751"><a href="http://www.sxk.se/sjokort" title="">Sjökort</a></li>
+<li class="menu-198"><a href="http://www.sxk.se/catalog" title="">Butiken</a></li>
+<li class="menu-886"><a href="../../../../../verksamhet" title="">Verksamhet</a></li>
+<li class="menu-188 active-trail last active"><a href="show_full.png" title="" class="active">Start</a></li>
+</ul>	    	</div>
+      
+    </div></div> <!-- /.section, /#header -->
+
+    <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+      <div id="content" class="column"><div class="section">
+
+        				
+        		
+                                
+        
+        <div id="content-area">
+          <div class="view view-frontpage-puffs view-id-frontpage_puffs view-display-id-page_1 view-dom-id-1 view-frontpage-puffs view-id-frontpage_puffs view-display-id-page_1 view-dom-id-1">
+  
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div id="node-12110" class="node node-type-artikel node-promoted node-teaser clearfix">
+	
+	<img src="http://www.sxk.se/sites/default/files/imagecache/artikel_huvudbild/px3-2012.jpg" alt="" title=""  class="imagecache imagecache-artikel_huvudbild" width="446" height="337" />
+				<div id="vinjett">
+							<img src='flag.png'/>
+			<span class='taxterm'>Nyheter:</span>							<span class='vinjett_text'>På Kryss nr 3/2012</span>
+								</div>
+	
+	
+
+	<h2 class="title">
+		<a href="http://www.sxk.se/nytt-nummer-av-pa-kryss-3">Nytt nummer av På Kryss</a>	</h2>
+				<span class="ingress">Nu har ett nytt nummer av medlemstidningen På Kryss kommit ut. Här kan du läsa delar ur innehållet.<a href="http://www.sxk.se/nytt-nummer-av-pa-kryss-3">Läs mer »</a></span>
+									<div class="facebooklink_teaser">
+				<iframe src="http://www.facebook.com/plugins/like.php?href=www.sxk.se/nytt-nummer-av-pa-kryss-3"
+										scrolling="no" frameborder="0"
+										style="border:none; width:100%; height:24px">
+								</iframe>
+			</div>
+									<div class="latest_comment_nid">
+				<a href="http://www.sxk.se/nytt-nummer-av-pa-kryss-3#comments">Kommentera</a>			</div>
+				</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+    <div id="node-11870" class="node node-type-artikel node-promoted node-teaser clearfix">
+	
+	<img src="http://www.sxk.se/sites/default/files/imagecache/artikel_huvudbild/batmarket2012.jpg" alt="" title=""  class="imagecache imagecache-artikel_huvudbild" width="446" height="293" />
+				<div id="vinjett">
+							<img src='flag.png'/>
+			<span class='taxterm'>Nyheter:</span>							<span class='vinjett_text'>Båtmärket 2012</span>
+								</div>
+	
+	
+
+	<h2 class="title">
+		<a href="http://www.sxk.se/batmarket-2012">Båtmärket 2012</a>	</h2>
+				<span class="ingress">På Kryss nr 4 utkommer i början av maj och har du din båt registrerad i Svenska Kryssarklubben bifogas årets båtmärke och Gästhamnsguiden 2012.
+<a href="http://www.sxk.se/batmarket-2012">Läs mer »</a></span>
+									<div class="facebooklink_teaser">
+				<iframe src="http://www.facebook.com/plugins/like.php?href=www.sxk.se/batmarket-2012"
+										scrolling="no" frameborder="0"
+										style="border:none; width:100%; height:24px">
+								</iframe>
+			</div>
+									<div class="latest_comment_nid">
+				<a href="http://www.sxk.se/batmarket-2012#comments">Kommentera</a>			</div>
+				</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <!-- /.view -->
+        </div>
+
+        <div class="region region-content-bottom">
+    <div id="block-views-frontpage_bottom_puffs-block_1" class="block block-views region-odd odd region-count-1 count-11">
+      <h3 class="title">Aktuellt</h3>
+  
+  <div class="content">
+    <div class="view view-frontpage-bottom-puffs view-id-frontpage_bottom_puffs view-display-id-block_1 view-dom-id-4 view-frontpage-bottom-puffs view-id-frontpage_bottom_puffs view-display-id-block_1 view-dom-id-4">
+  
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-created">
+                <span class="field-content">12-04-05</span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.sxk.se/vastkustens-naturhamnar-klara-2-maj">Västkustens Naturhamnar klara 2 maj</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-created">
+                <span class="field-content">12-04-04</span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.sxk.se/glad-pask">Glad påsk!</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-created">
+                <span class="field-content">12-04-02</span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.sxk.se/nytt-nummer-av-pa-kryss-3">Nytt nummer av På Kryss</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-created">
+                <span class="field-content">12-03-27</span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.sxk.se/bli-en-sakrare-skeppare">Bli en säkrare skeppare</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field-created">
+                <span class="field-content">12-03-23</span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.sxk.se/batmarket-2012">Båtmärket 2012</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a href="http://www.sxk.se/alla_artiklar" class="footerlink">Se arkiv »</a></p>
+    </div>
+  
+  
+</div> <!-- /.view -->
+  </div>	
+  </div> <!-- /.block -->
+
+  <div id="block-views-pakryssfeed-block_1" class="block block-views region-even even region-count-2 count-12">
+      <h3 class="title">senaste från på kryss</h3>
+  
+  <div class="content">
+    <div class="view view-pakryssfeed view-id-pakryssfeed view-display-id-block_1 view-dom-id-5 view-pakryssfeed view-id-pakryssfeed view-display-id-block_1 view-dom-id-5">
+  
+      <div class="view-header">
+      <p><img src="http://www.sxk.se/sites/all/themes/sxk/images/pakryss.png" class="pakryss" /></p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">12-04-01</span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.pakryss.se/standard-for-batskrotning/">Standard för båtskrotning</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">12-03-30</span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.pakryss.se/insandare-visa-dig-vaken/">Insändare: Visa dig vaken!</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">12-03-30</span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.pakryss.se/fingal-oppet-varv/">Fingal: Öppet varv lördag 31 mars</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">12-03-26</span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.pakryss.se/ordforande-har-ordet-nr-3-2012/">Ordförande har ordet; nr 3-2012</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">12-03-26</span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.pakryss.se/17-appar-som-funkar-ombord/">17 appar som funkar ombord</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a href="http://www.pakryss.se" class="footerlink">Till tidningen »</a></p>
+    </div>
+  
+  
+</div> <!-- /.view -->
+  </div>	
+  </div> <!-- /.block -->
+
+</div> <!-- /.region -->
+
+                  <!--<div class="feed-icons"></div>-->
+        
+      </div></div> <!-- /.section, /#content -->
+
+              <div id="navigation"><div class="section clearfix">
+
+          
+          
+        </div></div> <!-- /.section, /#navigation -->
+      
+      <div class="region region-sidebar-first column sidebar"><div class="section">
+    <div id="block-views-aktiviteter-block_1" class="block block-views region-odd odd region-count-1 count-1">
+      <h2 class="title">På gång</h2>
+  
+  <div class="content">
+    <div class="view view-aktiviteter view-id-aktiviteter view-display-id-block_1 view-dom-id-2 view-aktiviteter view-id-aktiviteter view-display-id-block_1 view-dom-id-2">
+  
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <span class="views-field-field-event-date-value">
+                <span class="field-content"><span class="date-display-single">12-04-12</span></span>
+  </span>
+  
+  <span class="views-field-field-plats-value">
+                <span class="field-content">Polen</span>
+  </span>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.sxk.se/aktiviteter/landeskader-till-polen-12-15-april">Landeskader till Polen 12-15 april</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <span class="views-field-field-event-date-value">
+                <span class="field-content"><span class="date-display-single">12-04-14</span></span>
+  </span>
+  
+  <span class="views-field-field-plats-value">
+                <span class="field-content">Nacka Strand, Augustendalsvägen 54</span>
+  </span>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.sxk.se/aktiviteter/forarintygskargardsskeppareforarbevis-batbatkorkort">Förarintyg/Skärgårdsskeppare/Förarbevis båt/Båtkörkort.</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <span class="views-field-field-event-date-value">
+                <span class="field-content"><span class="date-display-single">12-04-15</span></span>
+  </span>
+  
+  <span class="views-field-field-plats-value">
+                <span class="field-content">Västkustkretsen</span>
+  </span>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.sxk.se/content/utbildningar">Västkustkretsen / Utbildningar</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <span class="views-field-field-event-date-value">
+                <span class="field-content"><span class="date-display-single">12-04-15</span></span>
+  </span>
+  
+  <span class="views-field-field-plats-value">
+                <span class="field-content">Västkustkretsen</span>
+  </span>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.sxk.se/content/sommaren-2011-eskadrar">Västkustkretsen / Eskadrar</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a href="http://www.sxk.se/aktiviteter" class="footerlink">Gå till alla aktiviteter »</a></p>
+    </div>
+  
+  
+</div> <!-- /.view -->
+  </div>
+
+  </div> <!-- /.block -->
+  <div id="block-block-7" class="block block-block region-even even region-count-2 count-2">
+      <h2 class="title">Våra kretsar</h2>
+  
+  <div class="content">
+    <p><a href="http://www.sxk.se/alla_kretsar"><img alt="" src="http://sxk.se/sites/all/themes/sxk/images/kretskarta.gif" style="width: 188px; height: 243px;" /></a></p>
+<p><span style="color:#003399;"><span style="font-size: 9px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Medelhavsseglarna</span></span></p>
+<p>Besök våra kretsars sidor och läs mer om deras verksamhet.</p>
+<p style="margin-bottom:0px;text-align: right;"><a class="footerlink" href="http://www.sxk.se/alla_kretsar">Alla kretsar »</a></p>
+  </div>
+
+  </div> <!-- /.block -->
+  <div id="block-block-20" class="block block-block region-odd odd region-count-3 count-3">
+      <h2 class="title">Båtnyheter i media</h2>
+  
+  <div class="content">
+    
+<iframe src="http://meltwaternews.com/magenta/xml/html/25/1/v2_328983.html" width="200px" height="350px" frameborder="0">
+  <p>Your browser does not support iframes.</p>
+</iframe><a class="footerlink" href="http://www.sxk.se/alla-batnyheter">Nyhetsarkiv »</a></p>
+  </div>
+
+  </div> <!-- /.block -->
+  <div id="block-block-11" class="block block-block region-even even region-count-4 count-4">
+      <h2 class="title">Internationellt certifikat</h2>
+  
+  <div class="content">
+    <p><img style="width: 157px; height: 209px;" alt="" src="http://www.sxk.se/sites/default/files/imagecache/halvbild/wysiwyg_imageupload/48/intcert_0.jpg" /></p>
+<p>Här kan du skriva ut ansöknings-<br />blankett för internationellt certifikat<br />för fritidsfartyg.</p>
+<p style="text-align: right;"><a class="footerlink" href="http://www.sxk.se/internationellt-certifikat">Läs mer »</a></p>
+  </div>
+
+  </div> <!-- /.block -->
+</div></div> <!-- /.section, /.region -->
+
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-user-0" class="block block-user region-odd odd region-count-1 count-5">
+      <h2 class="title">Logga in/Aktivera konto</h2>
+  
+  <div class="content">
+    
+		Första gången du ska logga in, <a href="http://www.sxk.se/user/register">aktivera ditt webbkonto först.</a>
+		<ul id="loginlist">
+			<li><a href="http://www.sxk.se/user">Logga in</a></li>
+			<li><a href="http://www.sxk.se/user/register">Aktivera ditt webbkonto</a></li>
+		</ul>
+		<form action="http://www.sxk.se/frontpage_puffs?destination=frontpage_puffs"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><input type="hidden" name="form_build_id" id="form-77490cc7764ef59884c0a5a965cca4c8" value="form-77490cc7764ef59884c0a5a965cca4c8"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+  </div>
+
+  </div> <!-- /.block -->
+  <div id="block-block-32" class="block block-block region-even even region-count-2 count-6">
+      <h2 class="title">Fråga om Båtteknik</h2>
+  
+  <div class="content">
+    <p>Söker du svar på&nbsp;frågor om båtteknik eller vill du själv ställa en båtteknisk fråga?</p>
+<p><a class="footerlink" href="http://www.sxk.se/content/b%C3%A5ttekniska-n%C3%A4mnden-1">Läs mer »</a><span></span></p>
+  </div>
+
+  </div> <!-- /.block -->
+  <div id="block-block-29" class="block block-block region-odd odd region-count-3 count-7">
+      <h2 class="title">Seminarium om att segla till Polen med hela familjen</h2>
+  
+  <div class="content">
+    <p><img alt="" src="http://www.sxk.se/sites/default/files/large_polen.jpg" /></p>
+<p>Björn Jacobsen seglade till vårt exotiska grannland Polen med hela familjen. Barnen var 10 månader, 2 och 5 år gamla. Film från Kryssarklubbens Forum på Allt för sjön, lördagen den 3 mars 2012.</p>
+<p><a class="footerlink" href="http://kapten-mediahamnense.solidtango.com/embed/ggwzxwchj6?auto_play=true&amp;seek=14">Läs mer »</a></p>
+  </div>
+
+  </div> <!-- /.block -->
+  <div id="block-views-puffs_most_right_column-block_1" class="block block-views region-even even region-count-4 count-8">
+  
+  <div class="content">
+    <div class="view view-puffs-most-right-column view-id-puffs_most_right_column view-display-id-block_1 view-dom-id-3 view-puffs-most-right-column view-id-puffs_most_right_column view-display-id-block_1 view-dom-id-3">
+  
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content">Förbud mot toalettavfall från fritidsbåtar införs 2015</span>
+  </div>
+  
+  <div class="views-field-field-huvudbild-fid">
+                <span class="field-content"><img src="http://www.sxk.se/sites/default/files/imagecache/column_puff_image/toatomningsstation_0.jpg" alt="" title=""  class="imagecache imagecache-column_puff_image imagecache-default imagecache-column_puff_image_default" width="198" height="154" /></span>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Transportstyrelsen fick i juni 2010 i uppdrag av regeringen att genomföra ett förbud mot att släppa ut toalettavfall från fritidsbåtar. Förbudet...</div>
+  </div>
+  
+  <div class="views-field-view-node">
+                <span class="field-content"><a href="http://www.sxk.se/forbud-mot-toatomning-2012">Läs mer »</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <!-- /.view -->
+  </div>
+
+  </div> <!-- /.block -->
+  <div id="block-block-9" class="block block-block region-odd odd region-count-5 count-9">
+      <h2 class="title">Nyheter i butiken</h2>
+  
+  <div class="content">
+    <p><img style="width: 180px; height: 180px;" alt="" src="http://www.sxk.se/sites/default/files/rugbytroja.jpg" /></p>
+<p>Titta in i butiken - det finns mycket nytt till dig och din&nbsp;båt. Bland annat denna fina rugbytröja i härlig kvalitet.</p>
+<p style="text-align: right;"><a class="footerlink" href="http://www.sxk.se/catalog/textil">Läs mer »</a></p>
+  </div>
+
+  </div> <!-- /.block -->
+  <div id="block-block-17" class="block block-block region-even even region-count-6 count-10">
+      <h2 class="title">SXK på Facebook</h2>
+  
+  <div class="content">
+    <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fsvenskakryssarklubben&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true&amp;appId=272806486085102" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px; margin-left: -19px;" allowTransparency="true"></iframe>  </div>
+
+  </div> <!-- /.block -->
+</div></div> <!-- /.section, /.region -->
+
+    </div></div> <!-- /#main, /#main-wrapper -->
+
+   <div id="footer"><div class="section">
+        		<div class="region region-footer">
+    <div id="block-block-4" class="block block-block region-odd odd region-count-1 count-13">
+  
+  <div class="content">
+    <table style="width: 900px;" border="0" cellSpacing="1" cellPadding="1" align="left">
+<tbody>
+<tr>
+<td style="width: 650px; text-align: left; vertical-align: top;">
+<div>
+<p><strong>Om Svenska Kryssarklubben</strong><br />Svenska Kryssarklubben är en ideell förening som bildades 1923 av en grupp entusiaster med Sven Grenander i spetsen med syfte att få ut fler familjer på sjön. Klubben har idag närmare 43&nbsp;000 medlemmar från 40 länder. Cirka 500 funktionärer och 50 utlandsombud arbetar ideellt för att underlätta ditt liv till sjöss.<br /><a href="http://www.sxk.se/bli-medlem"> <strong>Bli medlem</strong></a> du också och få ut mer av ditt båtliv!</p>
+<p><br />©2011 Svenska Kryssarklubben</p>
+</div>
+<p>&nbsp;</p>
+</td>
+<td style="width: 200px; text-align: right; vertical-align: top;">&nbsp;</td>
+<td style="width: 400px; text-align: left; vertical-align: top;">
+<p><a href="http://www.sxk.se/kontakta-oss"><strong>Kontakta oss&nbsp;</strong></a><br />Svenska Kryssarklubben (Riksföreningen)<br />Box 1189<br />131 27&nbsp; Nacka Strand<br />Tel: 08-448 28 80<br />Fax: 08-448 28 89<br />E-post:&nbsp;<a style="color: rgb(0, 56, 130); line-height: 13px; font-family: Arial; text-decoration: none;" href="mailto:info@sxk.se">info@sxk.se</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br /><br />&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+  </div>
+
+  </div> <!-- /.block -->
+</div> <!-- /.region -->
+		&nbsp;
+     </div></div>  <!--/.section, /#footer -->
+
+  </div></div> <!-- /#page, /#page-wrapper -->
+
+  
+  <script type="text/javascript" src="../../../modules/contrib/google_analytics/googleanalytics.js@m"></script>
+<script type="text/javascript" src="../../../modules/contrib/cufon/js/cufon-drupal.js@m"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-23067428-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-23067428-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+
+</body>
+</html>

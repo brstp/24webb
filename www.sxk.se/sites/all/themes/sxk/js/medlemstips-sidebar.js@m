@@ -1,0 +1,25 @@
+$(document).ready(function(){	
+	var $middle = $(".section-medlemstips #main-wrapper #content .section");
+	var $sidebar = $(".section-medlemstips .region-sidebar-first .section #block-views-tax_lista_medlemstips-block_1");
+	if($sidebar.length) {
+		var height = Math.max($middle.height(), $sidebar.height());
+		$middle.height(height);
+		$sidebar.height(height);
+	}
+	
+	$('#node-form').submit(function() {
+		var field_name = $('#node-form #edit-field-personnummer-0-value').attr('name');
+		if(field_name != undefined && field_name != 'undefined' && field_name != '') {
+			var date_reg = /^(19|20)\d\d([- /.])(0[1-9]|1[012])\2(0[1-9]|[12][0-9]|3[01])$/
+			
+			if(date_reg.test($('#node-form #edit-field-personnummer-0-value').val())) {
+			
+			} else {
+				$('#edit-field-personnummer-0-value').css('border', '1px solid #f00').css('height','18px');
+				return false;
+			}
+			
+		}
+	});
+	
+});

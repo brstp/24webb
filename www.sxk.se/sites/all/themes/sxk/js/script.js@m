@@ -1,0 +1,7 @@
+jQuery(document).ready(function($) {
+	/*$('#edit-submit').click(function() {
+		// On submit disable its submit button
+		$(this).attr('disabled', 'disabled');
+		$('.webform-client-form').submit();
+	});*/
+});

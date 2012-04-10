@@ -1,0 +1,9 @@
+$(document).ready(function(){	
+	var $middle = $(".og-context #page-wrapper #main-wrapper #content .section");
+	var $sidebar = $(".region-sidebar-first .section");
+	if($sidebar.length) {
+		var height = Math.max($middle.height(), $sidebar.height());
+		$middle.height(height);
+		$sidebar.height(height+18);
+	}
+});
