@@ -1,0 +1,1 @@
+Det här är ett litet projekt att göra om designen på webbplatsen www.24-timmars.nu (24-timmarsseglingarna) så att den ansluter till designen på www.sxk.se (Svenska Kryssarklubben).
